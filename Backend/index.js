@@ -2,7 +2,7 @@ import express from "express";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import cors from "cors";
-
+import payment from "./route/payment.js"
 import bookRoute from "./route/book.route.js";
 import userRoute from "./route/user.route.js";
 
@@ -13,14 +13,16 @@ app.use(express.json());
 
 dotenv.config();
 
+
+
 const PORT = process.env.PORT || 4000;
 const URI = process.env.MongoDBURI;
 
 // connect to mongoDB
 try {
     mongoose.connect(URI, {
-        useNewUrlParser: true,
-        useUnifiedTopology: true,
+        // useNewUrlParser: true,
+        // useUnifiedTopology: true,
     });
     console.log("Connected to mongoDB");
 } catch (error) {
@@ -32,5 +34,10 @@ app.use("/book", bookRoute);
 app.use("/user", userRoute);
 
 app.listen(PORT, () => {
-    console.log(`Server is listening on port ${PORT}`);
+    console.log(`Server is listening on port http://localhost:${PORT}`);
 });
+
+app.get('/', (req, res) => {
+    res.send('Gauri Singhal')
+})
+app.use('/api/payment', payment);

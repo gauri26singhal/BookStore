@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "title": "A novel by F. Scott Fitzgerald that explores themes of decadence and excess in the Jazz Age.",
+    "author": "F. Scott Fitzgerald",
+    "publication": "Scribner",
+    "price": 1000,
+    "category": "Literature",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg"
+  },
+  {
+    "id": 2,
+    "name": "To Kill a Mockingbird",
+    "title": "Harper Lee's Pulitzer Prize-winning novel about racial injustice in the Deep South.",
+    "author": "Harper Lee",
+    "publication": "J.B. Lippincott & Co.",
+    "price": 700,
+    "category": "Literature",
+    "image": "https://th.bing.com/th/id/OIP.2GMxAqCpItxai1LYbPlmJwHaJJ?w=202&h=250&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 3,
+    "name": "The Catcher in the Rye",
+    "title": "J.D. Salinger's iconic novel about teenage angst and alienation.",
+    "author": "J.D. Salinger",
+    "publication": "Little, Brown and Company",
+    "price":  400,
+    "category": "Classic",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
+  },
+  {
+    "id": 4,
+    "name": "1984",
+    "title": "George Orwell's dystopian novel about totalitarianism and surveillance.",
+    "author": "George Orwell",
+    "publication": "Secker & Warburg",
+    "price": 900,
+    "category": "Fiction",
+    "image": "https://th.bing.com/th/id/OIP.5fghEVBNKHeSYr8tyg-tVgHaLW?w=201&h=309&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 5,
+    "name": "Pride and Prejudice",
+    "title": "Jane Austen's classic novel about love, reputation, and class in early 19th-century England.",
+    "author": "Jane Austen",
+    "publication": "T. Egerton",
+    "price": 800,
+    "category": "Law",
+    "image": "https://th.bing.com/th/id/OIP.Nu7KKhRxKitVEGyTg_HaBgHaLW?w=201&h=309&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 6,
+    "name": "The Hobbit",
+    "title": "J.R.R. Tolkien's beloved fantasy novel about the adventures of Bilbo Baggins.",
+    "author": "J.R.R. Tolkien",
+    "publication": "George Allen & Unwin",
+    "price": 1299,
+    "category": "Fantasy",
+    "image": "https://th.bing.com/th/id/OIP.Uul26pdEb0NI_9r7N1pKlAHaLi?w=200&h=311&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 7,
+    "name": "The Alchemist",
+    "title": "Paulo Coelho's philosophical novel about following one's dreams.",
+    "author": "Paulo Coelho",
+    "publication": "HarperCollins",
+    "price": 1200,
+    "category": "Philosophy",
+    "image": "https://th.bing.com/th/id/OIP.tBuWC1xNSwhoAnWJiqLkqwHaLN?w=202&h=305&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 8,
+    "name": "Becoming",
+    "title": "Michelle Obama's memoir, detailing her life from childhood to her years as First Lady.",
+    "author": "Michelle Obama",
+    "publication": "Crown Publishing Group",
+    "price": 1099,
+    "category": "Biography",
+    "image": "https://th.bing.com/th/id/OIP.gkVsqAM9ZF_9-MjNQHyzewHaHa?w=173&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 9,
+    "name": "Educated",
+    "title": "Tara Westover's memoir about growing up in a strict and abusive household in rural Idaho and her quest for knowledge.",
+    "author": "Tara Westover",
+    "publication": "Random House",
+    "price": 600,
+    "category": "Education",
+    "image": "https://th.bing.com/th/id/OIP.xPYJlYSlnGVIM1j1ZcFNzQHaLX?w=118&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 10,
+    "name": "The Silent Patient",
+    "title": "Alex Michaelides' psychological thriller about a woman who stops speaking after committing a violent crime.",
+    "author": "Alex Michaelides",
+    "publication": "Celadon Books",
+    "price": 1199,
+    "category": "Thriller",
+    "image": "https://th.bing.com/th/id/OIP.MsbTboenjRO2EoLRDG_Q-wHaLM?w=122&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 11,
+    "name": "Where the Crawdads Sing",
+    "title": "Delia Owens' novel about a young girl raised in the marshes of North Carolina and her connection to nature.",
+    "author": "Delia Owens",
+    "publication": "G.P. Putnam's Sons",
+    "price": 800,
+    "category": "Literature",
+    "image": "https://th.bing.com/th/id/OIP.5SNrbn40Z2J3sTgzuuyiigAAAA?w=123&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 12,
+    "name": "The Book Thief",
+    "title": "A novel by Markus Zusak set in Nazi Germany narrated by Death.",
+    "author": "Markus Zusak",
+    "publication": "Knopf",
+    "price": 999,
+    "category": "Fiction",
+    "image": "https://th.bing.com/th/id/OIP.QXfpwLb6of2QlgHwviXxogHaLj?w=200&h=312&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 13,
+    "name": "The Kite Runner",
+    "title": "Khaled Hosseini's powerful story of friendship and redemption set against the backdrop of Afghanistan.",
+    "author": "Khaled Hosseini",
+    "publication": "Riverhead Books",
+    "price": 1299,
+    "category": "Fiction",
+    "image": "https://th.bing.com/th/id/OIP.16aZmdjT01t2Mybn0vu83wAAAA?w=198&h=314&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 14,
+    "name": "The Da Vinci Code",
+    "title": "Dan Brown's thrilling mystery novel that blends art, history, and religion.",
+    "author": "Dan Brown",
+    "publication": "Doubleday",
+    "price": 1499,
+    "category": "Mystery",
+    "image": "https://th.bing.com/th/id/OIP.XABFz04mAsaQNoemAX9eIwHaML?w=195&h=320&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 15,
+    "name": "The Hunger Games",
+    "title": "Suzanne Collins' dystopian novel about survival and rebellion in a totalitarian society.",
+    "author": "Suzanne Collins",
+    "publication": "Scholastic Press",
+    "price": 1099,
+    "category": "Fiction",
+    "image": "https://th.bing.com/th/id/OIP.p_l2M4bHk8vAKr7I-hAIvwHaLR?w=202&h=308&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 16,
+    "name": "Fahrenheit 451",
+    "title": "Ray Bradbury's classic novel about a future society where books are banned.",
+    "author": "Ray Bradbury",
+    "publication": "Ballantine Books",
+    "price": 899,
+    "category": "Fiction",
+    "image": "https://th.bing.com/th/id/OIP.nWOweyk7cK4dr68kHSB5BwHaLR?w=202&h=308&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 17,
+    "name": "The Fault in Our Stars",
+    "title": "John Green's poignant love story between two teenagers who meet in a cancer support group.",
+    "author": "John Green",
+    "publication": "Dutton Books",
+    "price": 999,
+    "category": "Teenage",
+    "image": "https://th.bing.com/th/id/OIP.VwfuwKxzmpLMDEUwZSoIzgHaLX?w=201&h=309&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 18,
+    "name": "The Perks of Being a Wallflower",
+    "title": "Stephen Chbosky's coming-of-age novel about the struggles of adolescence.",
+    "author": "Stephen Chbosky",
+    "publication": "Pocket Books",
+    "price": 1199,
+    "category": "Teenage",
+    "image": "https://th.bing.com/th/id/OIP.2JJiOuw6HWio16ZSp1wfKwHaKc?w=202&h=285&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 19,
+    "name": "The Night Circus",
+    "title": "Erin Morgenstern's enchanting tale of a magical competition between two young illusionists.",
+    "author": "Erin Morgenstern",
+    "publication": "Doubleday",
+    "price": 1399,
+    "category": "Fantasy",
+    "image": "https://th.bing.com/th/id/OIP.D_J7IwRCIOS5BuzA0HAROwHaLY?w=201&h=309&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 20,
+    "name": "Life of Pi",
+    "title": "Yann Martel's novel about a young boy stranded on a lifeboat with a Bengal tiger.",
+    "author": "Yann Martel",
+    "publication": "Knopf",
+    "price": 1099,
+    "category": "Adventure",
+    "image": "https://th.bing.com/th/id/OIP.K4eNp8P-8fZtSv9LwwATRgHaLD?w=202&h=302&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+}
+]

@@ -1,3 +1,4 @@
+/* Tailwind fonts and basic setup */
 @import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap");
 
 @tailwind base;
@@ -6,4 +7,70 @@
 
 body {
   font-family: "Poppins", sans-serif;
+}
+
+* {
+  border: none;
+}
+
+/* Modified class names */
+.input-custom {
+  min-width: 20rem;
+  max-width: 20rem;
+}
+
+.container-custom {
+  min-height: 50rem;
+}
+
+/* Default light theme input styles */
+.input-light-theme {
+  color: #000; /* Black text for light theme */
+  background-color: #fff; /* White background for light theme */
+}
+
+/* Dark theme input styles */
+.input-dark-theme {
+  color: #f1f1f1; /* Light text for dark theme */
+  background-color: #2c2c2c; /* Dark background for input in dark mode */
+}
+
+/* Placeholder styles */
+.input-light-theme::placeholder {
+  color: #a0a0a0; /* Placeholder color for light theme */
+}
+
+.input-dark-theme::placeholder {
+  color: #d4d4d4; /* Placeholder color for dark theme */
+}
+
+/* Optional: invalid email red border */
+.input-invalid {
+  border: 2px solid red;
+}
+
+.element {
+  background-color: rgb(255, 0, 0); /* Fallback */
+  background-color: oklch(0.5 0.5 0); /* Original */
+}
+
+.swap-off,
+.swap-on {
+  transition: all 0.3s ease;
+}
+
+.swap-off {
+  opacity: 1;
+}
+
+.swap-on {
+  opacity: 0;
+}
+
+.swap-active .swap-off {
+  opacity: 0;
+}
+
+.swap-active .swap-on {
+  opacity: 1;
 }

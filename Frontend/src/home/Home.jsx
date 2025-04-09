@@ -10,7 +10,7 @@ function Home() {
       <Navbar />
       <Banner />
       <Freebook />
-      <Footer />
+      <Footer theme="dark" />
     </>
   );
 }
